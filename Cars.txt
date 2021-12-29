@@ -1,3 +1,1 @@
-rwe,rwerw,2021,red,rwer,23123.0
-hoNDA CIVIC,hionda,2021,red,sedan,3123.0
-honda civic,honda,2021,red,sedan,12312.0
+Honda Civic,Honda,2021,red,sedan,3123.0
